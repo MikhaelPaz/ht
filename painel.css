@@ -1,0 +1,75 @@
+input{
+    width: 200px;
+    height: 50px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 1px;
+    text-align: center;
+    font-size: 15px;
+}
+#nome{
+    display: flex;
+    margin-left: 30px;
+}
+#nome1{
+    margin-right: 10px;
+}
+#bloco1{
+    display: flex;
+}
+#nome11{
+    display: flex;
+    margin-left: 30px;
+}
+#nome2{
+    margin-right: 10px;
+}
+#nome111{
+    display: flex;
+    margin-left: 30px;
+}
+#nome3{
+    margin-right: 10px;
+}
+#hospedagem{
+    background-color: rgba(176, 219, 180, 0.767);
+    margin-left: 40px;
+    padding-left: 20px;
+    padding-right: 209.95px;
+    width: fit-content;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#nome4{
+    margin-right: 10px;
+}
+#bloco2{
+    display: flex;
+}
+#nome22{
+    display: flex;
+    margin-left: 30px;
+}
+#nome5{
+    margin-right: 10px;
+}
+#nome222{
+    display: flex;
+    margin-left: 30px;
+}
+#nome6{
+    margin-right: 10px;
+}
+#financeiro{
+    background-color: rgba(176, 219, 180, 0.767);
+    margin-left: 40px;
+    padding-left: 20px;
+    padding-right: 40px;
+    width: fit-content;
+}
