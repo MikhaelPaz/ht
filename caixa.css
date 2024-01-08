@@ -1,0 +1,47 @@
+#nome4{
+    margin-right: 10px;
+}
+#bloco2{
+    display: flex;
+}
+#nome22{
+    display: flex;
+    margin-left: 30px;
+}
+#nome5{
+    margin-right: 10px;
+}
+#nome222{
+    display: flex;
+    margin-left: 30px;
+}
+#nome6{
+    margin-right: 10px;
+}
+#caixa{
+    background-color: rgba(176, 219, 180, 0.767);
+    margin-left: 40px;
+    padding-left: 20px;
+    padding-right: 40px;
+    width: fit-content;
+}
+#nome{
+    display: flex;
+    margin-left: 30px;
+}
+input{
+    width: 200px;
+    height: 50px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    margin-bottom: 1px;
+    text-align: center;
+    font-size: 15px;
+}
+.t3{
+    margin-right: 23;
+}
+.t4{
+    margin-right: 18px;
+}

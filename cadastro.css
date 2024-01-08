@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(200, 200, 200);
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+form{
+    text-align: center;
+}
+input{
+    border: none;
+    background-color: rgb(230, 230, 230);
+    border-radius: 15px;
+}
+textarea{
+    border: none;
+    background-color: rgb(230, 230, 230);
+    border-radius: 15px;
+}
+select{
+    border: none;
+    background-color: rgb(230, 230, 230);
+    border-radius: 15px;
+}
+input:hover{
+    background-color: rgb(220, 220, 220);
+}
+select:hover{
+    background-color: rgb(220, 220, 220);
+}
+textarea:hover{
+    background-color: rgb(220, 220, 220);
+}
+.hospede{
+    float: left ;
+    margin-left:30% ;
+}
+.endereco{
+    float: right ;
+    margin-right:30% ;
+}
